@@ -14,4 +14,4 @@ Build a self-designed HTML email invitation that lands in the inbox (not spam), 
 
 - `SKILL.md` — the full skill: event details, guest-list tracker, header visual, email build rules (learned the hard way), RSVP mailto buttons, calendar link + .ics, text-message version, preview and test-send, sending, and ongoing RSVP tracking.
 
-Made by Clare (@toomanyclicks).
+Made by Clare Flynn Levy (@clareflynnlevy).
